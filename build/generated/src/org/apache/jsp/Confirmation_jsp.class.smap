@@ -1,0 +1,22 @@
+SMAP
+Confirmation_jsp.java
+JSP
+*S JSP
+*F
++ 0 Confirmation.jsp
+Confirmation.jsp
++ 1 Head.jsp
+include/Head.jsp
++ 2 Header.jsp
+include/Header.jsp
++ 3 Footer.jsp
+include/Footer.jsp
+*L
+5,9:51
+1#1,27:60
+13#0,4:87
+1#2,119:91
+16#0,142:210
+1#3,96:352
+157#0,5:448
+*E
